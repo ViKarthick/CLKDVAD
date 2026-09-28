@@ -20,7 +20,7 @@ CLKDVAD addresses this with a **dual-teacher, knowledge-distillation continual l
 
 ## Architecture
 
-![CLKDVAD system architecture](figures/architecture_diagram.png)
+![CLKDVAD system architecture](architecture_diagram.png)
 
 *Figure: Proposed system architecture — dual-teacher continual learning with relational knowledge distillation, replay-based memory consolidation, and student distillation for edge deployment.*
 
