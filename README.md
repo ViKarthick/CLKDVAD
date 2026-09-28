@@ -1,11 +1,6 @@
 # CLKDVAD — Continual Learning using Knowledge Distillation for Video Anomaly Detection
 
 A memory-efficient continual learning framework for unsupervised video anomaly detection in surveillance systems. CLKDVAD adapts to evolving environments over time — without full retraining and without storing long-term historical video data — while distilling into a compact, edge-deployable student model for real-time inference.
-
-**B.E. Computer Science and Engineering — Phase II Project Report**
-Vijay Karthick Vaidyanathan, Vishal SS · Supervised by Dr. J. Bhuvana
-Sri Sivasubramaniya Nadar College of Engineering
-
 ---
 
 ## Overview
@@ -59,8 +54,4 @@ A React-based application was developed for interactive inference over the CLKDV
 
 ## Why the code isn't public
 
-The model weights and training/inference code are part of an academic research project (SSN College of Engineering, 2026) and are not publicly released. This repository documents the architecture, methodology, and results. The full Phase II report and workshop paper are linked below.
-
-
-- Full Phase II Project Report: `report/CLKDVAD_Phase2_Report.pdf`
-- Workshop paper (if applicable): link here
+The model weights and training/inference code are part of an academic research project (SSN College of Engineering, 2026) and are not publicly released. This repository documents the architecture, methodology, and results.
